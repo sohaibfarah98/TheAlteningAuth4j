@@ -1,4 +1,4 @@
-# The Altening Auth API
+ddhdhdtvbfbmskhl# The Altening Auth API
 
 [![Java 8+][java-badge]](https://java.oracle.com/)
 [![Maven Central][maven-badge]](https://search.maven.org/artifact/com.thealtening.auth/auth)
